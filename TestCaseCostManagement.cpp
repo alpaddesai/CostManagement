@@ -32,6 +32,12 @@ costAnalysis[3]=costAnalysisD;
 for (int i =0;i<5;i++)
 calculateCostFunction(costAnalysis[i]);
 
+ 
+ delete costAnalysisA;
+ delete costAnalysisB;
+ delete costAnalysisC;
+ delete costAnalysisD;
+ 
 return 0;
 }
 
