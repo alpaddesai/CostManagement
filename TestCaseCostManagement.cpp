@@ -14,9 +14,6 @@ int main()
 
 cout<<"Execute Company cost management"<<endl;
 
- //unique_ptr<CompanyCostManagement> costAnalysisA(new CompanyCostManagement(5000,400,200,25000,5,"AW"));
- //unique_ptr<CompanyCostManagement> costAnalysisB(new CompanyCostManagement(5000,400,200,25000,5,"AW"));
-
 vector <CompanyCostManagement *> costAnalysis(4);
 
 VolumeBasedCosting *costAnalysisA = new VolumeBasedCosting(5000,400,200,25000,5,"AW");
