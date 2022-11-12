@@ -5,3 +5,5 @@ The project provides a simple and effective analysis of the activity based costi
 Additional reference : https://github.com/alpaddesai/ManagerialAccounting
 
 ![image](USCopyrightCertificate.png)
+
+![image](Ethics.jpg)
